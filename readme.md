@@ -1,3 +1,4 @@
 ## Notas
 
-Aplicación de pokémon para android e iOS usando React Native.
+Aplicación de Pokémon para android e iOS usando React Native.
+
